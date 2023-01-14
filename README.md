@@ -11,6 +11,7 @@ These are the technologies, libraries and tools I've used throughout my projects
 - Firebase & Firebase Storage
 - Vanilla JavaScript
 - React-Router
+- ViteJS
 
 
 ## Other Common Github Profile Sections
