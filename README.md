@@ -14,8 +14,8 @@ These are the technologies, libraries and tools I've used throughout my projects
 - ViteJS
 
 
-## Other Common Github Profile Sections
+## What I'm up to
 
-🧠 Currently, I am improving my TypeScript as well as Sass.
+🧠 Currently, I am building an URL-shortener application in Express, Node and JS.
 
 🤔 Node and GraphQL are two technologies I would like to learn & master!
