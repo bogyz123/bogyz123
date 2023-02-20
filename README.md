@@ -12,6 +12,7 @@ These are the technologies, libraries and tools I've used throughout my projects
 - Vanilla JavaScript
 - React-Router
 - ViteJS
+- Node.JS
 
 
 ## What I'm up to
