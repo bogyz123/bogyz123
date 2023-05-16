@@ -1,8 +1,4 @@
 
-## 🚀 About Me
-My name is Bogdan & I'm a 19 year old front-end developer from Serbia primarily working with React.JS and willing to participate in projects! 
-My primary language used to be C#, then I switched to web development.
-
 ## 🛠 Technologies I use
 These are the technologies, libraries and tools I've used throughout my projects.
 - React.JS
