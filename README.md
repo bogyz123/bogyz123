@@ -3,7 +3,7 @@
 These are the technologies, libraries and tools I've used throughout my projects.
 - React.JS
 - Redux Toolkit & Redux-Persist
-- MaterialUI
+- Tailwind
 - Firebase & Firebase Storage
 - Vanilla JavaScript
 - React-Router
