@@ -5,6 +5,7 @@ These are the technologies, libraries and tools I've used throughout my projects
 - Redux Toolkit & Redux-Persist
 - Tailwind
 - Firebase & Firebase Storage
+- MongoDB
 - Vanilla JavaScript
 - React-Router
 - ViteJS
