@@ -10,3 +10,4 @@ These are the technologies, libraries and tools I've used throughout my projects
 - React-Router
 - ViteJS
 - Node.JS
+- C#
